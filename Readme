@@ -1,0 +1,21 @@
+**Safety Warning: Network Operation Scripts**
+
+Creating and running scripts that involve network operations, such as IP sniffers or ping utilities, can potentially impact network security and privacy. It's essential to adhere to the following guidelines:
+
+1. **Legal and Ethical Use**: Ensure that you have proper authorization before monitoring or intercepting network traffic. Unauthorized access to network data is illegal and can lead to severe legal consequences.
+
+2. **Respect Privacy**: Do not intercept or analyze network traffic without explicit consent from all parties involved. Respect privacy rights and adhere to applicable laws and regulations.
+
+3. **Use in Controlled Environments**: Test and use these scripts only in controlled environments where you have permission to monitor or troubleshoot network activity.
+
+4. **Avoid Harmful Practices**: Do not use network monitoring tools or scripts to harm, disrupt, or gain unauthorized access to networks or systems.
+
+5. **Educational Purposes Only**: Use these scripts for educational purposes to learn about network protocols, troubleshooting, or security practices. Avoid using them for malicious or unauthorized activities.
+
+6. **Be Cautious with User Input**: Validate and sanitize user input to prevent unintended commands or vulnerabilities that could be exploited.
+
+Remember, responsible and ethical use of network monitoring tools helps maintain trust and security within digital environments. Always prioritize legal compliance, user consent, and privacy protection when developing or using such scripts.
+
+--- 
+
+Following these guidelines helps ensure that your activities are legal, ethical, and aligned with best practices for network security and privacy. If you have any doubts about the legality or ethical implications of using network tools, seek guidance from experienced professionals or legal advisors.
